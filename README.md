@@ -1,5 +1,13 @@
-## Hi there 👋
-
+#### Things I’ve worked with:
+- C# (.NET, Web / API, desktop)
+- Backend systems and client–server architecture
+- SQL and relational data
+- REST APIs, JSON, authentication
+- AI integrations (external APIs, embeddings, AI-assisted workflows)
+- Java (layered applications with GUI and database access)
+- JavaScript / Vue, HTML / CSS (as part of web projects)
+- Python (small tools & bots)
+- Business Central / AL
 <!--
 **PTSDeSiqueira/PTSDeSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
